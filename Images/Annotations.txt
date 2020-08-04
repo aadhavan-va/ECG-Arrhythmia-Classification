@@ -1,4 +1,5 @@
-In the MIT-BIH database the annotations for the ECG images are annotated in the rpeaks thus first the rpeaks are calculated and then based on required arrhythmia the annotations are applied inorder to get the respective ECG images.
+In the MIT-BIH database the annotations for the ECG images are annotated in the rpeaks thus first the rpeaks are calculated,
+and then based on required arrhythmia the annotations are applied inorder to get the respective ECG images.
 
 N	Normal beat
 L	Left bundle branch block beat
