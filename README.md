@@ -5,8 +5,8 @@ ECG arrhythmia classification using Convolutional Neural Network
 <br>
 # Dependencies
 **1. wfdb**<br>
-## 2. biosppy
-## 3. py-ecg-detectors
-## 4. Tensorflow
-## 5. Keras
+**2. biosppy**<br>
+**3. py-ecg-detectors**<br>
+**4. Tensorflow**<br>
+**5. Keras**<br>
 
