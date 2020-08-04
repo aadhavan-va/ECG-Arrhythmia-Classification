@@ -1,0 +1,22 @@
+In the MIT-BIH database the annotations for the ECG images are annotated in the rpeaks thus first the rpeaks are calculated and then based on required arrhythmia the annotations are applied inorder to get the respective ECG images.
+
+N	Normal beat
+L	Left bundle branch block beat
+R	Right bundle branch block beat
+A	Atrial premature beat
+a	Aberrated atrial premature beat
+J	Nodal (junctional) premature beat
+S	Supraventricular premature beat
+V	Premature ventricular contraction
+F	Fusion of ventricular and normal beat
+[	Start of ventricular flutter/fibrillation
+!	Ventricular flutter wave
+]	End of ventricular flutter/fibrillation
+e	Atrial escape beat
+j	Nodal (junctional) escape beat
+E	Ventricular escape beat
+/	Paced beat
+f	Fusion of paced and normal beat
+x	Non-conducted P-wave (blocked APB)
+Q	Unclassifiable beat
+|	Isolated QRS-like artifact
